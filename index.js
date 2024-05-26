@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["𝝖nxile-𝗛osting | 𝗙ree & 𝗣aid 24/7"];
 
 
 let currentIndex = 0;
